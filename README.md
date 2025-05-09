@@ -2,7 +2,9 @@
 상명대학교 이상형 매칭 프로젝트
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e276b5f8-11f6-452d-bcf9-a299cf4efef6" alt="메인 이미지" width="500"/>
+  <img src="https://github.com/user-attachments/assets/ca2e9e1b-d7f0-4311-b23a-b6e89d865f29" alt="메인 이미지 3" width="250"/>
+  <img src="https://github.com/user-attachments/assets/e276b5f8-11f6-452d-bcf9-a299cf4efef6" alt="메인 이미지 1" width="250"/>
+  &nbsp;&nbsp;
 </p>
 
 ---
@@ -38,3 +40,4 @@
 
 - [ ] Error Code 통일화  
 - [ ] Error Code Interface화
+- [ ] DB Transection 문제 해결할 것
