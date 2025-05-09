@@ -1,4 +1,4 @@
-# 🌟 UMCignal  
+# 🌟 SMU Signal  
 상명대학교 이상형 매칭 프로젝트
 
 <p align="center">
